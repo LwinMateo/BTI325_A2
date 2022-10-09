@@ -7,7 +7,7 @@ other source
 *
 * Name: Lwin Yonal Mateo Lopez_______________ Student ID: 134710201__________ Date: 10-08-2022____
 *
-* Your app’s URL (from Cyclic) : ______________________________________________
+* Your app’s URL (from Cyclic) : https://alive-fox-vest.cyclic.app________________________________
 *
 *************************************************************************/
 
